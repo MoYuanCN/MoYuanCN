@@ -22,4 +22,4 @@ Just Code For Fun
 [![GitHub](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub&color=181717&style=for-the-badge&query=$.data.totalSubs&url=https%3a%2f%2fapi.spencerwoo.com%2fsubstats%2f%3fsource%3dgithub%26queryKey%3dMoYuanCN)](https://github.com/MoYuanCN)
 [![Bilibili](https://img.shields.io/badge/bilibili-无聊的墨缘-1DA1F2?logo=bilibili&logoColor=white&style=for-the-badge)](https://space.bilibili.com/346299289)
 [![SimpleX](https://img.shields.io/badge/SimpleX-1DA1F2?logo=SimpleX&logoColor=white&style=for-the-badge)](https://simplex.chat/contact#/?v=2-5&smp=smp%3A%2F%2F6iIcWT_dF2zN_w5xzZEY7HI2Prbh3ldP07YTyDexPjE%3D%40smp10.simplex.im%2FHThWNwWOiDzZB1q4sAMe6gz71gH3DmWG%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAc2Kf8SeQ9EqdgXc0WJQ_biRKOYJzCIe1Fw3IQHYDJCY%253D%26srv%3Drb2pbttocvnbrngnwziclp2f4ckjq65kebafws6g4hy22cdaiv5dwjqd.onion)
-[![Mail](https://img.shields.io/badge/MoYuanCN@gmail.com-911318?logo=Mail.RU&logoColor=white&style=for-the-badge)](mailto:MoYuanCN@gmail.com)
+[![Mail](https://img.shields.io/badge/mail-MoYuanCN@gmail.com-911318?logo=Mail.RU&logoColor=white&style=for-the-badge)](mailto:MoYuanCN@gmail.com)
