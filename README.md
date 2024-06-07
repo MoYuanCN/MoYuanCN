@@ -1,6 +1,6 @@
 ## Hi,here is MoYuanCN
 * A normal student
-* A minecraft player with over 8,000 hours of play time
+* A [minecraft](https://en.m.wikipedia.org/wiki/Minecraft) player with over 8,000 hours of play time
 * Arknights Player
 * A [MtF(transgender)🏳️‍⚧️](https://en.wikipedia.org/wiki/Trans_woman#Terminology)
 
