@@ -18,7 +18,7 @@ Just Code For Fun
 ## Content
 # [Blog](https://moyuancn.vip)
 [![Discord](https://img.shields.io/badge/Discord-@MoYuanCN-1DA1F2?logo=Discord&logoColor=white&style=for-the-badge)](https://discordapp.com/users/872299024982622278)
-[![Telegram](https://img.shields.io/badge/Telegram-@MoYuan_CN-00BFFF?logo=telegram&logoColor=white&style=for-the-badge)](https://t.me/MoYuanCN)
+[![Telegram](https://img.shields.io/badge/Telegram-@MoYuan_CN-00BFFF?logo=telegram&logoColor=white&style=for-the-badge)](https://t.me/MoYuan_CN)
 [![Twitch](https://img.shields.io/badge/twitch-@MoYuanCN-1DA1F2?logo=twitch&logoColor=white&style=for-the-badge)](https://www.twitch.tv/moyuancn)
 [![Pixiv](https://img.shields.io/badge/pixiv-@MoYuanCN-1DA1F2?logo=pixiv&logoColor=white&style=for-the-badge)](https://www.pixiv.net/users/67840370)
 [![Bilibili](https://img.shields.io/badge/bilibili-无聊的墨缘-1DA1F2?logo=bilibili&logoColor=white&style=for-the-badge)](https://space.bilibili.com/346299289)
