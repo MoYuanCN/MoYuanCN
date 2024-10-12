@@ -1,7 +1,9 @@
 ## Hi,here is MoYuanCN
-* A normal student
+* Only JavaScript
+* Minecraft Player
+* Arknights player
 
-Just Code For Fun
+Just Code For Fun (~ _ ~)
 
 
 
