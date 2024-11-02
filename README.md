@@ -10,7 +10,7 @@ Just Code For Fun (~ _ ~)
 ## Programming Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-f7df1e?style=flat-square&logo=JavaScript&labelColor=f7df1e&logoColor=000)
 
-![](https://github-readme-stats.vercel.app/api/top-langs?username=Prejudice-Studio&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs?username=MoYuanCN&layout=compact)
 
 ## Content
 [Email: MoYuanCN@gmail.com](mailto:MoYuanCN@gmail.com)
