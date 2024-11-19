@@ -14,5 +14,3 @@ Just Code For Fun (~ _ ~)
 
 ## Content
 [Email: MoYuanCN@gmail.com](mailto:MoYuanCN@gmail.com)
-
-[Telegram Channel: @InternetSanctuary](https://t.me/InternetSanctuary)
