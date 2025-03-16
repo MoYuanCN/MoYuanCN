@@ -1,7 +1,6 @@
 ## Hi,here is MoYuanCN
 * Only JavaScript
 * Minecraft Player
-* Arknights player
 
 Just Code For Fun (~ _ ~)
 
