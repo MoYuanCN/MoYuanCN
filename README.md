@@ -1,10 +1,12 @@
-## Hi,here is MoYuanCN
-* Only JavaScript
-* Minecraft Player
+## Hi,here is MoYuanCN 你好,这里是墨缘
+* Only JavaScript ~~只会JavaScript系~~
+* Minecraft Player 我的世界全能玩家
+* Prejudice-Studo Owner Prejudice-Studio所属兼所有者
+* Anime enthusiasts 动画爱好者
 
 Just Code For Fun (~ _ ~)
 
-Below are all my Domain:
+Below are all my Domain 下列均为我的域名 :
 
 - MoYuanCN.vip
 - AveMujica.org
@@ -16,3 +18,6 @@ Below are all my Domain:
 
 ## Content
 [Email: MoYuanCN@gmail.com](mailto:MoYuanCN@gmail.com)
+
+## Organization
+[Prejudice-Studio](https://github.com/Prejudice-Studio)
