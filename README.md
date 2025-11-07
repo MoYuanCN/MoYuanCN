@@ -12,9 +12,11 @@ Below are all my Domain 下列均为我的域名 :
 - AveMujica.org
 - Anisufia.com
 - Yufiria.com
+- pre-s.com
 
 ## Programming Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-f7df1e?style=flat-square&logo=JavaScript&labelColor=f7df1e&logoColor=000)
+![Python](https://img.shields.io/badge/-Python-f7df1e?style=flat-square&logo=Python&labelColor=f1fcee&logoColor=000)
 
 ## Content
 [Email: MoYuanCN@gmail.com](mailto:MoYuanCN@gmail.com)
