@@ -1,25 +1,15 @@
-## Hi,here is MoYuanCN 你好,这里是墨缘
-* Only JavaScript ~~只会JavaScript系~~
-* Minecraft Player 我的世界全能玩家
-* Prejudice-Studo Owner Prejudice-Studio所属兼所有者
-* Anime enthusiasts 动画爱好者
+# Hi,Here is MoYuanCN 你好,这里是墨缘
+* ~~只会JavaScript系~~ JavaScript系全精通(但是我自己根本不喜欢用)
+* 2012年的Minecraft基岩版老兵，JE是异端！（
+* 现役休学家里蹲
+* 爱好大杂烩，我什么都会一点.jpg
 
 Just Code For Fun (~ _ ~)
 
-Below are all my Domain 下列均为我的域名 :
-
-- MoYuanCN.vip
-- AveMujica.org
-- Anisufia.com
-- Yufiria.com
-- pre-s.com
-
 ## Programming Languages
-![JavaScript](https://img.shields.io/badge/-JavaScript-f7df1e?style=flat-square&logo=JavaScript&labelColor=f7df1e&logoColor=000)
-![Python](https://img.shields.io/badge/-Python-f7df1e?style=flat-square&logo=Python&labelColor=f1fcee&logoColor=000)
+ - ECMAScript/Vue/Node/Next/TypeScript等任何JS系
+ - Python
+ - Golang
 
 ## Content
 [Email: MoYuanCN@gmail.com](mailto:MoYuanCN@gmail.com)
-
-## Organization
-[Prejudice-Studio](https://github.com/Prejudice-Studio)
