@@ -96,13 +96,13 @@
 
 **主业：** 哔哩哔哩动画搬运 / 百合番剧翻译（产能极低）  
 
-**- 制作中：** 暂无  
+**- 制作中：**
+- [上伊那牡丹、酩酊身姿若百合之花](https://bangumi.tv/subject/543360)  
 
 **- 善后中：**  
 - [超时空辉夜姬](https://bangumi.tv/subject/604826)
 
 **- 确认制作：**  
-- [上伊那牡丹、酩酊身姿若百合之花](https://bangumi.tv/subject/543360)  
 - [与你相恋至生命尽头](https://bangumi.tv/subject/541285)  
 - [雨夜之月](https://bangumi.tv/subject/524236)  
 
@@ -112,8 +112,7 @@
 - [我们不可能成为恋人！绝对不行。〜再次闪耀！〜](https://bangumi.tv/subject/587454) (双语/自购BD)  
 
 **不确定中：**  
-- [BanG Dream! YUME∞MITA](https://bangumi.tv/subject/583729)  
-- [一叠间漫画咖啡屋生活](https://bangumi.tv/subject/569161)  
+- [BanG Dream! YUME∞MITA](https://bangumi.tv/subject/583729)
 - [恶女不才，请多关照 雏宫蝶鼠换身传](https://bangumi.tv/subject/545008)  
 
 **完结撒花：**  
